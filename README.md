@@ -235,13 +235,13 @@ go version
 First, Make sure you have Git installed. After that, clone the repository using this command:
 
 ```bash
-git clone git@github.com:joshuaquibin/CECS-378-Fall-23-Group-6.git
+git clone git@github.com:bryanmax9/BLE_Sniffing_Windows_Integration_Bettercap-OpenSourceContribution.git
 ```
 
 Now move to the repository folder using command:
 
 ```bash
-cd CECS-378-Fall-23-Group-6
+cd BLE_Sniffing_Windows_Integration_Bettercap-OpenSourceContribution
 ```
 
 Then use this command to go to the Bettercap forked repository:
