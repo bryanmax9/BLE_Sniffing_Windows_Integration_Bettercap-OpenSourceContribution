@@ -379,21 +379,21 @@ If you want to stop the sniffing you just go to where you did the sniff on, you 
 
 BLE:
 
-https://www.bluetooth.com/specifications/specs/?keyword=core+specification
-https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gap
-https://novelbits.io/intro-bluetooth-low-energy-version-2/
-https://novelbits.io/
+- https://www.bluetooth.com/specifications/specs/?keyword=core+specification
+- https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gap
+- https://novelbits.io/intro-bluetooth-low-energy-version-2/
+- https://novelbits.io/
 
 Wireshark:
 
-https://www.wireshark.org/docs/wsug_html_chunked/ChWorkBuildDisplayFilterSection.html
-https://ask.wireshark.org/questions/
+- https://www.wireshark.org/docs/wsug_html_chunked/ChWorkBuildDisplayFilterSection.html
+- https://ask.wireshark.org/questions/
 
 Install-WSL:
 
-https://learn.microsoft.com/en-us/windows/wsl/install
+- https://learn.microsoft.com/en-us/windows/wsl/install
 
 Learn-Go:
 
-https://go.dev/tour/welcome/1
-https://go.dev/doc/tutorial/getting-started
+- https://go.dev/tour/welcome/1
+- https://go.dev/doc/tutorial/getting-started
