@@ -402,3 +402,4 @@ Learn-Go:
 Allowing WSL to interact with USB's attached to the Windows Host machine:
 
 - https://www.youtube.com/watch?v=x1lvDTCHifI
+- https://blog.golioth.io/program-mcu-from-wsl2-with-usb-support/
