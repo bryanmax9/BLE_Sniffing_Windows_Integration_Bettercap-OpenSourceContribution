@@ -388,6 +388,7 @@ Wireshark:
 
 - https://www.wireshark.org/docs/wsug_html_chunked/ChWorkBuildDisplayFilterSection.html
 - https://ask.wireshark.org/questions/
+- https://www.wireshark.org/docs/wsdg_html_chunked/ChCaptureExtcap.html
 
 Install-WSL:
 
