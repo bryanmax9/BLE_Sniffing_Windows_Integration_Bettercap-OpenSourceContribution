@@ -398,3 +398,7 @@ Learn-Go:
 
 - https://go.dev/tour/welcome/1
 - https://go.dev/doc/tutorial/getting-started
+
+Allowing WSL to interact with USB's attached to the Windows Host machine:
+
+- https://www.youtube.com/watch?v=x1lvDTCHifI
