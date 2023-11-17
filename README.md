@@ -398,7 +398,8 @@ Learn-Go:
 
 - https://go.dev/tour/welcome/1
 - https://go.dev/doc/tutorial/getting-started
-- https://www.udemy.com/course/building-modern-web-applications-with-go/
+- https://www.udemy.com/course/building-modern-web-applications-with-go
+- https://www.youtube.com/watch?v=yyUHQIec83I&t=12s
 
 Allowing WSL to interact with USB's attached to the Windows Host machine:
 
