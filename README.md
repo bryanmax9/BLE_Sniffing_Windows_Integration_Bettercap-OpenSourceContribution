@@ -235,13 +235,13 @@ go version
 First, Make sure you have Git installed. After that, clone the repository using this command:
 
 ```bash
-git clone git@github.com:joshuaquibin/CECS-378-Fall-23-Group-6.git
+git clone git@github.com:bryanmax9/BLE_Sniffing_Windows_Integration_Bettercap-OpenSourceContribution.git
 ```
 
 Now move to the repository folder using command:
 
 ```bash
-cd CECS-378-Fall-23-Group-6
+cd BLE_Sniffing_Windows_Integration_Bettercap-OpenSourceContribution
 ```
 
 Then use this command to go to the Bettercap forked repository:
@@ -379,21 +379,29 @@ If you want to stop the sniffing you just go to where you did the sniff on, you 
 
 BLE:
 
-https://www.bluetooth.com/specifications/specs/?keyword=core+specification
-https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gap
-https://novelbits.io/intro-bluetooth-low-energy-version-2/
-https://novelbits.io/
+- https://www.bluetooth.com/specifications/specs/?keyword=core+specification
+- https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gap
+- https://novelbits.io/intro-bluetooth-low-energy-version-2/
+- https://novelbits.io/
 
 Wireshark:
 
-https://www.wireshark.org/docs/wsug_html_chunked/ChWorkBuildDisplayFilterSection.html
-https://ask.wireshark.org/questions/
+- https://www.wireshark.org/docs/wsug_html_chunked/ChWorkBuildDisplayFilterSection.html
+- https://ask.wireshark.org/questions/
+- https://www.wireshark.org/docs/wsdg_html_chunked/ChCaptureExtcap.html
 
 Install-WSL:
 
-https://learn.microsoft.com/en-us/windows/wsl/install
+- https://learn.microsoft.com/en-us/windows/wsl/install
 
 Learn-Go:
 
-https://go.dev/tour/welcome/1
-https://go.dev/doc/tutorial/getting-started
+- https://go.dev/tour/welcome/1
+- https://go.dev/doc/tutorial/getting-started
+- https://www.udemy.com/course/building-modern-web-applications-with-go
+- https://www.youtube.com/watch?v=yyUHQIec83I&t=12s
+
+Allowing WSL to interact with USB's attached to the Windows Host machine:
+
+- https://www.youtube.com/watch?v=x1lvDTCHifI
+- https://blog.golioth.io/program-mcu-from-wsl2-with-usb-support/
